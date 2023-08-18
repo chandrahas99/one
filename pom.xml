@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.109.56.113:8081/repository/ccit-releases/</url>
+		    <url>http://http://18.233.66.2:8081/repository/chandu-repo/</url>
 		</repository>
   	</distributionManagement>
 	
